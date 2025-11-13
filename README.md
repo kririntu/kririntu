@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Dibyendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> 
+Hi, I'm Krishnendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> 
 
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">-->
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
@@ -17,12 +17,12 @@ Hi, I'm Dibyendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 ```
 dibyendumaity@github
 -------------------------
-* 💻 Currently working as a SRF under the guidance of Dr. Suman Chakrabarty at SNBNCBS, in the Department of Chemical and Biological Sciences.
-* 📚 Earned a bachelor's degree in Physics from Midnapore College (Autonomous).
+* 💻 Currently working as a Research Associate at SNBNCBS, in the Department of Chemical and Biological Sciences.
+* 📚 Earned a bachelor's degree in Physics from RKMV (Autonomous).
 * 📝 Passionate about Artificial Intelligence and Machine Learning.
 * 🔭 Dedicated to mastering Deep Learning and Machine Learning.
 * 🌱 Exploring various techniques for calculating free energies of reactions.
-* 🌟 Proficient in Python, C++, and JavaScript.
+* 🌟 Proficient in Python, C, and Fortran.
 * 🚩 Enthusiastic about developing Full Stack Machine Learning Applications.
 * 💖 In a complex yet rewarding relationship with Neural Networks.
 * 🎵 Avid listener of good music.
