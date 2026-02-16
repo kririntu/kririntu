@@ -14,7 +14,7 @@ Hi, I'm Krishnendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 <hr>
 
 ```
-dibyendumaity@github
+krishnendupatra@github
 -------------------------
 * 💻 Currently working as a Research Associate at SNBNCBS, in the Department of Chemical and Biological Sciences.
 * 📚 Earned a bachelor's degree in Physics from RKMV (Autonomous).
