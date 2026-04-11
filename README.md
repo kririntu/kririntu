@@ -17,7 +17,7 @@ Hi, I'm Krishnendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 krishnendupatra@github
 -------------------------
 * 💻 Currently working as a Research Associate at SNBNCBS, in the Department of Condensed Matter and Material Physics.
-* 📚 Earned a bachelor's degree in Physics from RKMV (Autonomous).
+* 📚 Earned a master's degree in Physics from IIT GUWAHATI.
 * 📝 Passionate about Artificial Intelligence and Machine Learning.
 * 🔭 Dedicated to mastering Deep Learning and Machine Learning.
 * 🌟 Proficient in Python, C, and Fortran.
