@@ -115,21 +115,7 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kririntu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 📌 Featured Projects
-
-⭐ Conversational Intelligence Engine (LLM + RAG + LangChain)
-
-⭐ AI Research Assistant
-
-⭐ Asian Paints Stock Prediction using Machine Learning
-
-⭐ Computational Physics Simulations
-
-⭐ DFT & Wannier90 Workflows
-
----
 
 ## 💡 Quote
 
