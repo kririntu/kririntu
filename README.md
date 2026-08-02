@@ -14,7 +14,6 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 
 - 🔬 Postdoctoral Researcher in Computational Condensed Matter Physics
 - 🤖 Interested in **Large Language Models (LLMs), RAG Systems, AI Agents, Machine Learning, and Data Science**
-- ⚛️ Research areas include **Topological Materials, Spintronics, Altermagnetism, DFT, Wannier90, and High-Performance Computing**
 - 💻 I enjoy building AI applications using **LangChain, FastAPI, ChromaDB, Hugging Face, and Streamlit**
 - 📈 Exploring how AI can accelerate scientific research
 - 🌱 Currently learning **Agentic AI, Advanced RAG Systems, GraphRAG, and MLOps**
@@ -27,12 +26,6 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 
 ## 🚀 Research Interests
 
-- Computational Condensed Matter Physics
-- Density Functional Theory (DFT)
-- Electronic Structure Calculations
-- Topological Quantum Materials
-- Spintronics & Altermagnetism
-- High Performance Computing (HPC)
 - Artificial Intelligence
 - Machine Learning
 - Large Language Models (LLMs)
@@ -67,20 +60,7 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 - FastAPI
 - Streamlit
 
-### Physics & Scientific Computing
 
-- VASP
-- Quantum ESPRESSO
-- Wannier90
-- WannierTools
-- WannierBerri
-- BoltzTraP2
-- Phonopy
-- EPW
-- MPI
-- OpenMP
-
----
 
 ## 🌐 Connect With Me
 
