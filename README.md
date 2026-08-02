@@ -1,22 +1,136 @@
-<h1 align="center">Hi 👋, I'm KRISHNENDU PATRA</h1>
-<h3 align="center">A passionate Researcher both in AI and Physics</h3>
+<h1 align="center">Hi 👋, I'm Krishnendu Patra</h1>
 
-- 🔭 I’m currently working on **Postdoctoral Researcher**
+<h3 align="center">
+Postdoctoral Researcher | Computational Physicist | AI & Machine Learning Enthusiast
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kririntu?tab=repositories](https://github.com/kririntu?tab=repositories)
-
-- 📫 How to reach me **krishnendupatra148@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishnendu patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnendu patra" height="30" width="40" /></a>
-<a href="https://kaggle.com/krishnendu patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishnendu patra" height="30" width="40" /></a>
-<a href="https://fb.com/krishnendu patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishnendu patra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishnendupatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnendupatra" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/722101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="722101" height="30" width="40" /></a>
+<p align="center">
+Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solve real-world scientific problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kririntu&show_icons=true&locale=en" alt="kririntu" /></p>
+## 👨‍🔬 About Me
+
+- 🔬 Postdoctoral Researcher in Computational Condensed Matter Physics
+- 🤖 Interested in **Large Language Models (LLMs), RAG Systems, AI Agents, Machine Learning, and Data Science**
+- ⚛️ Research areas include **Topological Materials, Spintronics, Altermagnetism, DFT, Wannier90, and High-Performance Computing**
+- 💻 I enjoy building AI applications using **LangChain, FastAPI, ChromaDB, Hugging Face, and Streamlit**
+- 📈 Exploring how AI can accelerate scientific research
+- 🌱 Currently learning **Agentic AI, Advanced RAG Systems, GraphRAG, and MLOps**
+- 👨‍💻 Check out my projects:
+  **https://github.com/kririntu?tab=repositories**
+- 📫 Reach me at:
+  **krishnendupatra148@gmail.com**
+
+---
+
+## 🚀 Research Interests
+
+- Computational Condensed Matter Physics
+- Density Functional Theory (DFT)
+- Electronic Structure Calculations
+- Topological Quantum Materials
+- Spintronics & Altermagnetism
+- High Performance Computing (HPC)
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+---
+
+## 🛠 Languages & Tools
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode,linux,docker" />
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- XGBoost
+- LangChain
+- ChromaDB
+- Hugging Face
+- FastAPI
+- Streamlit
+
+### Physics & Scientific Computing
+
+- VASP
+- Quantum ESPRESSO
+- Wannier90
+- WannierTools
+- WannierBerri
+- BoltzTraP2
+- Phonopy
+- EPW
+- MPI
+- OpenMP
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/krishnendupatra/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/krishnendupatra/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.topcoder.com/members/722101" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kririntu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kririntu&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kririntu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+⭐ Conversational Intelligence Engine (LLM + RAG + LangChain)
+
+⭐ AI Research Assistant
+
+⭐ Asian Paints Stock Prediction using Machine Learning
+
+⭐ Computational Physics Simulations
+
+⭐ DFT & Wannier90 Workflows
+
+---
+
+## 💡 Quote
+
+> *"Combining Physics, Artificial Intelligence, and High-Performance Computing to solve tomorrow's scientific challenges."*
