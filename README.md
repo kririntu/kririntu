@@ -39,7 +39,7 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,docker" />
 </p>
 
 ### AI & Data Science
