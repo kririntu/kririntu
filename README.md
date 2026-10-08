@@ -77,10 +77,6 @@ Bridging <b>Computational Physics</b> and <b>Artificial Intelligence</b> to solv
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.topcoder.com/members/722101" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-</a>
-</p>
 
 ---
 
